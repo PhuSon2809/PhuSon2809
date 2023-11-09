@@ -1,4 +1,7 @@
 <h1 align="center" color="black">Hi 👋, I'm Tran Phu Son</h1>
+<p align="center">
+  <a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Freepik - Flaticon</a>
+</p>
 <h3 align="center">A fresher frontend developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuson2809&label=Profile%20views&color=0e75b6&style=flat" alt="phuson2809" /> </p>
