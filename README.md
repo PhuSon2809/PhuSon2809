@@ -55,6 +55,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma" alt="Figma logo" title="Figma" height="25" /></span>
+&nbsp;
 </p>
 
 <br>
