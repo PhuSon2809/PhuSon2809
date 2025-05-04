@@ -2,7 +2,7 @@
 <p align="center">
  <img src="https://firebasestorage.googleapis.com/v0/b/porfolio-d552f.appspot.com/o/code.png?alt=media&token=dd8425e2-d271-42ad-b694-f87af30ab8ee" alt="code-icon" width="100" />
 </p>
-<h3 align="center">A fresher frontend developer from Vietnam</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=phuson2809&label=Profile%20views&color=0e75b6&style=flat" alt="phuson2809" /> 
